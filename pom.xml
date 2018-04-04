@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>lang-hindi</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>Language: Hindi</name>
+	<description>Support for processing Hindi documents</description>
 
 	<licenses>
 		<license>
